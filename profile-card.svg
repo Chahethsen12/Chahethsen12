@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="430" viewBox="0 0 850 430">
+  <style>
+    .bg { fill: #0d1117; rx: 10px; }
+    .header { fill: #161b22; }
+    .dot-red { fill: #ff5f56; }
+    .dot-yellow { fill: #ffbd2e; }
+    .dot-green { fill: #27c93f; }
+    .title { fill: #8b949e; font-family: monospace; font-size: 13px; font-weight: bold; }
+    .text { font-family: 'Fira Code', 'Consolas', monospace; font-size: 13px; }
+    .prompt { fill: #79c0ff; font-weight: bold; }
+    .path { fill: #d2a8ff; }
+    .key { fill: #ffa657; font-weight: bold; }
+    .val { fill: #a5d6ff; }
+    .accent { fill: #7ee787; }
+    .comment { fill: #8b949e; font-style: italic; }
+    .border { stroke: #30363d; stroke-width: 1px; fill: none; }
+  </style>
+
+  <!-- Container -->
+  <rect class="bg" width="850" height="430" />
+  <rect class="border" width="850" height="430" rx="10" />
+
+  <!-- Window Controls -->
+  <path class="header" d="M 0,10 Q 0,0 10,0 L 840,0 Q 850,0 850,10 L 850,35 L 0,35 Z" />
+  <circle class="dot-red" cx="20" cy="18" r="6" />
+  <circle class="dot-yellow" cx="40" cy="18" r="6" />
+  <circle class="dot-green" cx="60" cy="18" r="6" />
+  <text class="title" x="425" y="22" text-anchor="middle">chaheth@dev-terminal:~</text>
+
+  <!-- Shell Prompt -->
+  <text class="text" x="25" y="65">
+    <tspan class="prompt">chaheth@system</tspan>:<tspan class="path">~</tspan>$ neofetch --profile
+  </text>
+
+  <!-- System Badge -->
+  <text class="text accent" x="25" y="105">
+    <tspan x="25" dy="0">   /\_/\   </tspan>
+    <tspan x="25" dy="18">  ( o.o )  </tspan>
+    <tspan x="25" dy="18">   > ^ &lt;   </tspan>
+    <tspan x="25" dy="30" class="comment">[STATUS: ONLINE]</tspan>
+    <tspan x="25" dy="20" class="comment">[BUILD: ACTIVE]</tspan>
+  </text>
+
+  <!-- Profile Details -->
+  <text class="text" x="210" y="105">
+    <tspan class="key">Name</tspan>:<tspan class="val">             Chaheth Senevirathne</tspan>
+    <tspan x="210" dy="22" class="key">Degree</tspan>:<tspan class="val">           BSc (Hons) Computer Science</tspan>
+    <tspan x="210" dy="22" class="key">University</tspan>:<tspan class="val">       University of Bedfordshire</tspan>
+    <tspan x="210" dy="22" class="key">Primary IDE</tspan>:<tspan class="val">      Visual Studio Code</tspan>
+    <tspan x="210" dy="22" class="key">Languages</tspan>:<tspan class="val">        Python, Java, JavaScript, C++</tspan>
+    <tspan x="210" dy="22" class="key">Frameworks</tspan>:<tspan class="val">       React, Node.js, Spring Boot</tspan>
+    <tspan x="210" dy="22" class="key">Focus Areas</tspan>:<tspan class="val">      Adversarial NLP, AI Models, Full-Stack</tspan>
+    <tspan x="210" dy="22" class="key">Email</tspan>:<tspan class="val">            chahethsen12@gmail.com</tspan>
+  </text>
+
+  <line x1="25" y1="300" x2="825" y2="300" stroke="#30363d" stroke-width="1" />
+
+  <!-- Statistics Footer -->
+  <text class="text" x="25" y="335">
+    <tspan class="key">Public Repos</tspan>: <tspan class="val">34</tspan>  |  
+    <tspan class="key">Stars</tspan>: <tspan class="val">9</tspan>  |  
+    <tspan class="key">Focus</tspan>: <tspan class="accent">Structured AI &amp; Web Systems</tspan>
+  </text>
+
+  <text class="text" x="25" y="375">
+    <tspan class="prompt">chaheth@system</tspan>:<tspan class="path">~</tspan>$ <tspan class="val">echo "Converting dreams into reality."</tspan>
+  </text>
+  <text class="text accent" x="25" y="400">Converting dreams into reality.</text>
+</svg>
