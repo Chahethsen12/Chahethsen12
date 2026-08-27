@@ -1,41 +1,24 @@
 <div align="center">
 
-# ⚡ CHA H E T H . O S ⚡
-**Full-Stack Developer & AI Systems Specialist**
+<!-- Cyberpunk Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=%3E_SYSTEM_INITIALIZED%3A+CHA H E T H . O S;%3E_ROLE%3A+AI+SYSTEMS+%26+FULL-STACK+ENGINEER;%3E_SPECS%3A+DISTILBERT+%7C+TINYLLAMA+%7C+SPRING+BOOT;%3E_STATUS%3A+CONVERTING+DREAMS+INTO+REALITY..." alt="Cyberpunk Typing Header" />
 
-`Computer Science @ University of Bedfordshire` · `Colombo, Sri Lanka`
-
----
-
-<!-- Animated Typing Banner / Stats Overview -->
-<a href="https://github.com/Chahethsen12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Adversarial+NLP+%26+Input+Sanitization;MERN+Stack+%26+Spring+Boot+Architectures;Building+Chaheth+OS+%26+Web+Applications;Converting+Dreams+Into+Reality..." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Modern Tech Stack Badges -->
-### 🛠️ Core Tech Matrix
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | `Python` `Java` `JavaScript` `C++` `SQL` `HTML5/CSS3` |
-| **Frameworks & Libs** | `React` `Node.js` `Express` `Spring Boot` `DistilBERT` `TinyLlama` |
-| **Tools & Environments** | `VS Code` `Git` `Docker` `Postman` `MongoDB` `MySQL` |
-| **Specialization** | `Adversarial NLP` `RAG Pipelines` `Full-Stack Web Engineering` |
-
-<br/>
-
----
-
-### 🔬 Featured Projects Matrix
+</div>
 
 ```text
- ┌───────────────────────────────────────────────────────────────────────────┐
- │  [01] SafeText AI                                                         │
- │  └─ Dual-model framework utilizing DistilBERT & TinyLlama for adversarial │
- │     text normalization & input sanitization.                              │
- ├───────────────────────────────────────────────────────────────────────────┤
- │  [02] Chaheth OS                                                          │
- │  └─ Browser-based portfolio operating system engineered in React.        │
- └───────────────────────────────────────────────────────────────────────────┘
+ ┌─────────────────────────────────────────────────────────────────────────┐
+ │ SYSTEM_INFO // NEOFETCH                                                 │
+ ├─────────────────────────────────────────────────────────────────────────┤
+ │  User.........: Chaheth Janidu Senevirathne                             │
+ │  OS...........: Windows 10 / Android 14 / Linux                         │
+ │  Host.........: University of Bedfordshire                              │
+ │  Kernel.......: BSc (Hons) Computer Science                             │
+ │  Primary IDE..: Visual Studio Code                                      │
+ │                                                                         │
+ │  Languages....: Python, Java, JavaScript, C++, SQL, HTML/CSS            │
+ │  Frameworks...: React, Node.js, Spring Boot                             │
+ │  AI Stack.....: Adversarial NLP, DistilBERT, TinyLlama                  │
+ │                                                                         │
+ │  Contact......: chahethsen12@gmail.com                                  │
+ │  LinkedIn.....: [linkedin.com/in/chaheth-senevirathne](https://linkedin.com/in/chaheth-senevirathne)                    │
+ └─────────────────────────────────────────────────────────────────────────┘
