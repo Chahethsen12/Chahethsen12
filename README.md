@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hapugala Arachchige Chaheth Janidu Senevirathne 👋
+# Hi, I'm Chaheth Janidu Senevirathne 👋
 
 An undergraduate computer science student focused on converting ideas into real-world software applications.
 
