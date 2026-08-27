@@ -1,28 +1,41 @@
 <div align="center">
 
-# Hi, I'm Chaheth Janidu Senevirathne 👋
+# ⚡ CHA H E T H . O S ⚡
+**Full-Stack Developer & AI Systems Specialist**
 
-An undergraduate computer science student focused on converting ideas into real-world software applications.
-
-<br />
-
-<!-- Terminal Profile Card -->
-<img src="./profile-card.svg" alt="Chaheth Senevirathne Profile Card" width="100%" />
-
-<br />
-<br />
-
-<!-- Dynamic Live Stats Cards -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chahethsen12&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chahethsen12&layout=compact&theme=dark&hide_border=false" alt="Top Languages" width="45%" />
-</p>
+`Computer Science @ University of Bedfordshire` · `Colombo, Sri Lanka`
 
 ---
 
-### 🌐 Connect With Me
+<!-- Animated Typing Banner / Stats Overview -->
+<a href="https://github.com/Chahethsen12">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Adversarial+NLP+%26+Input+Sanitization;MERN+Stack+%26+Spring+Boot+Architectures;Building+Chaheth+OS+%26+Web+Applications;Converting+Dreams+Into+Reality..." alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaheth-senevirathne)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chahethsen12@gmail.com)
+<br/>
 
-</div>
+<!-- Modern Tech Stack Badges -->
+### 🛠️ Core Tech Matrix
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `Java` `JavaScript` `C++` `SQL` `HTML5/CSS3` |
+| **Frameworks & Libs** | `React` `Node.js` `Express` `Spring Boot` `DistilBERT` `TinyLlama` |
+| **Tools & Environments** | `VS Code` `Git` `Docker` `Postman` `MongoDB` `MySQL` |
+| **Specialization** | `Adversarial NLP` `RAG Pipelines` `Full-Stack Web Engineering` |
+
+<br/>
+
+---
+
+### 🔬 Featured Projects Matrix
+
+```text
+ ┌───────────────────────────────────────────────────────────────────────────┐
+ │  [01] SafeText AI                                                         │
+ │  └─ Dual-model framework utilizing DistilBERT & TinyLlama for adversarial │
+ │     text normalization & input sanitization.                              │
+ ├───────────────────────────────────────────────────────────────────────────┤
+ │  [02] Chaheth OS                                                          │
+ │  └─ Browser-based portfolio operating system engineered in React.        │
+ └───────────────────────────────────────────────────────────────────────────┘
